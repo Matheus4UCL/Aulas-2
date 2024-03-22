@@ -1,16 +1,8 @@
 # appcontador
+Matheus Inácio da Cunha de Lima
+Matricula:12217007
+programa em flutter que conta até 10 pessoas
+Deve tem 2 botes um de incrementar e outro decrementar
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![0](https://github.com/Matheus4UCL/Aulas-2/assets/92408898/e6f72018-6fe0-49be-b34a-014054f127c8)
